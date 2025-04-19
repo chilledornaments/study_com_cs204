@@ -1,0 +1,10 @@
++-----------------+----------------+-----------+
+| ClientFirstName | ClientLastName | ClientDOB |
++-----------------+----------------+-----------+
+| Mya             | Austin         |      1960 |
+| Caroline        | Clark          |      1960 |
+| Annabel         | Williamson     |      1960 |
+| Alina           | Morton         |      2010 |
+| Alina           | Austin         |      2010 |
+| Joan            | Grant          |      2010 |
++-----------------+----------------+-----------+
