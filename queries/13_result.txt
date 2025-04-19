@@ -1,0 +1,9 @@
+Empty set (0.00 sec)
+
+If I `UPDATE` a `Book` record to fudge the data:
+
++-----------------+----------------+-----------------+
+| AuthorFirstName | AuthorLastName | books_per_genre |
++-----------------+----------------+-----------------+
+| Oliver          | Martin         |               2 |
++-----------------+----------------+-----------------+
