@@ -1,4 +1,3 @@
-
 USE MyLibrary;
 
 INSERT INTO Author
