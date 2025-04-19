@@ -1,0 +1,84 @@
++-----------------+----------------+------+----------------------------+
+| ClientFirstName | ClientLastName | age  | Occupation                 |
++-----------------+----------------+------+----------------------------+
+| Kaiden          | Hill           |   19 | Student                    |
+| Alina           | Morton         |   15 | Student                    |
+| Fania           | Brooks         |   42 | Food Scientist             |
+| Courtney        | Jensen         |   19 | Student                    |
+| Brittany        | Hill           |   42 | Firefighter                |
+| Max             | Rogers         |   20 | Student                    |
+| Margaret        | McCarthy       |   44 | School Psychologist        |
+| Julie           | McCarthy       |   52 | Professor                  |
+| Ken             | McCarthy       |   51 | Securities Clerk           |
+| Britany         | O'Quinn        |   41 | Violinist                  |
+| Conner          | Gardner        |   27 | Licensed Massage Therapist |
+| Mya             | Austin         |   65 | Parquet Floor Layer        |
+| Thierry         | Rogers         |   21 | Student                    |
+| Eloise          | Rogers         |   41 | Computer Security Manager  |
+| Gerard          | Jackson        |   46 | Oil Exploration Engineer   |
+| Randy           | Day            |   39 | Aircraft Electrician       |
+| Jodie           | Page           |   35 | Manufacturing Director     |
+| Coral           | Rice           |   29 | Window Washer              |
+| Ayman           | Austin         |   23 | Student                    |
+| Jaxson          | Austin         |   26 | Repair Worker              |
+| Joel            | Austin         |   52 | Police Officer             |
+| Alina           | Austin         |   15 | Student                    |
+| Elin            | Austin         |   63 | Payroll Clerk              |
+| Ophelia         | Wolf           |   21 | Student                    |
+| Eliot           | McGuire        |   58 | Dentist                    |
+| Peter           | McKinney       |   57 | Professor                  |
+| Annabella       | Henry          |   51 | Nurse                      |
+| Anastasia       | Baker          |   24 | Student                    |
+| Tyler           | Baker          |   41 | Police Officer             |
+| Lilian          | Ross           |   42 | Insurance Agent            |
+| Thierry         | Arnold         |   50 | Bus Driver                 |
+| Angelina        | Rowe           |   46 | Firefighter                |
+| Marcia          | Rowe           |   51 | Health Educator            |
+| Martin          | Rowe           |   49 | Ship Engineer              |
+| Adeline         | Rowe           |   20 | Student                    |
+| Colette         | Rowe           |   62 | Professor                  |
+| Diane           | Clark          |   50 | Payroll Clerk              |
+| Caroline        | Clark          |   65 | Dentist                    |
+| Dalton          | Clayton        |   43 | Police Officer             |
+| Steve           | Clayton        |   35 | Bus Driver                 |
+| Melanie         | Clayton        |   38 | Computer Engineer          |
+| Alana           | Wilson         |   18 | Student                    |
+| Carson          | Byrne          |   30 | Food Scientist             |
+| Conrad          | Byrne          |   18 | Student                    |
+| Ryan            | Porter         |   17 | Student                    |
+| Elin            | Porter         |   47 | Computer Programmer        |
+| Tyler           | Harvey         |   18 | Student                    |
+| Arya            | Harvey         |   17 | Student                    |
+| Serena          | Harvey         |   47 | School Teacher             |
+| Lilly           | Franklin       |   49 | Doctor                     |
+| Mai             | Franklin       |   31 | Dentist                    |
+| John            | Franklin       |   26 | Firefighter                |
+| Judy            | Franklin       |   30 | Firefighter                |
+| Katy            | Lloyd          |   33 | School Teacher             |
+| Tamara          | Allen          |   62 | Ship Engineer              |
+| Maxim           | Lyons          |   40 | Police Officer             |
+| Allan           | Lyons          |   42 | Computer Engineer          |
+| Marc            | Harris         |   45 | School Teacher             |
+| Elin            | Young          |   16 | Student                    |
+| Diana           | Young          |   17 | Student                    |
+| Diane           | Young          |   19 | Student                    |
+| Alana           | Bird           |   22 | Student                    |
+| Anna            | Becker         |   46 | Security Agent             |
+| Katie           | Grant          |   48 | Manager                    |
+| Joan            | Grant          |   15 | Student                    |
+| Bryan           | Bell           |   24 | Student                    |
+| Belle           | Miller         |   55 | Professor                  |
+| Peggy           | Stevens        |   35 | Bus Driver                 |
+| Steve           | Williamson     |   50 | HR Clerk                   |
+| Tyler           | Williamson     |   26 | Doctor                     |
+| Izabelle        | Williamson     |   35 | Systems Analyst            |
+| Annabel         | Williamson     |   65 | Cashier                    |
+| Mohamed         | Waters         |   59 | Insurance Agent            |
+| Marion          | Newman         |   55 | Computer Programmer        |
+| Ada             | Williams       |   39 | Computer Programmer        |
+| Sean            | Scott          |   42 | Bus Driver                 |
+| Farrah          | Scott          |   51 | Ship Engineer              |
+| Christine       | Lambert        |   52 | School Teacher             |
+| Alysha          | Lambert        |   18 | Student                    |
+| Maia            | Grant          |   41 | School Teacher             |
++-----------------+----------------+------+----------------------------+

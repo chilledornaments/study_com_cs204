@@ -1,0 +1,9 @@
++-------------------+
+| AuthorNationality |
++-------------------+
+| Spain             |
+| USA               |
+| Canada            |
+| USA               |
+| Great Britain     |
++-------------------+
