@@ -1,0 +1,36 @@
++----------------------------+--------------------+
+| client_occupation          | avg_per_occupation |
++----------------------------+--------------------+
+| Nurse                      |             7.0000 |
+| Computer Security Manager  |             6.0000 |
+| Computer Programmer        |             5.6667 |
+| Dentist                    |             5.6667 |
+| Cashier                    |             5.0000 |
+| Manufacturing Director     |             5.0000 |
+| Oil Exploration Engineer   |             5.0000 |
+| Police Officer             |             4.5000 |
+| Systems Analyst            |             4.0000 |
+| Violinist                  |             4.0000 |
+| HR Clerk                   |             4.0000 |
+| Doctor                     |             4.0000 |
+| Bus Driver                 |             4.0000 |
+| Insurance Agent            |             4.0000 |
+| Student                    |             3.8182 |
+| School Teacher             |             3.6000 |
+| Professor                  |             3.5000 |
+| Firefighter                |             3.2500 |
+| Manager                    |             3.0000 |
+| Repair Worker              |             3.0000 |
+| Computer Engineer          |             3.0000 |
+| Payroll Clerk              |             3.0000 |
+| Ship Engineer              |             2.6667 |
+| Food Scientist             |             2.5000 |
+| Health Educator            |             2.0000 |
+| Window Washer              |             2.0000 |
+| Securities Clerk           |             2.0000 |
+| Security Agent             |             2.0000 |
+| School Psychologist        |             2.0000 |
+| Aircraft Electrician       |             2.0000 |
+| Licensed Massage Therapist |             2.0000 |
+| Parquet Floor Layer        |             2.0000 |
++----------------------------+--------------------+
