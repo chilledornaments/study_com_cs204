@@ -1,7 +1,6 @@
-
 USE MyLibrary;
 
-INSERT INTO Client
+INSERT INTO Clients
 (ClientFirstName,ClientLastName,ClientDoB,Occupation)
 VALUES
 

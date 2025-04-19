@@ -17,7 +17,7 @@ CREATE TABLE Author (
 );
 
 -- Client depends on no other tables, so create before others that depend on it
-CREATE TABLE Client (
+CREATE TABLE Clients (
     ClientID int PRIMARY KEY AUTO_INCREMENT UNIQUE,
     ClientFirstName varchar(100),
     ClientLastName varchar(100),
@@ -36,7 +36,7 @@ CREATE TABLE Book (
 CREATE TABLE Borrower (
   BorrowID int PRIMARY KEY AUTO_INCREMENT UNIQUE,
   ClientID int,
-  FOREIGN KEY (ClientID) REFERENCES Client(ClientID),
+  FOREIGN KEY (ClientID) REFERENCES Clients(ClientID),
   BookID int,
   FOREIGN KEY (BookID) REFERENCES Book(BookID),
   BorrowDate DATE
