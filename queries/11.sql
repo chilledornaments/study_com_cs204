@@ -14,7 +14,7 @@ JOIN Client ON
 GROUP BY age
 ;
 
-
+-- Find average and group by age
 SELECT (borrows_by_age.borrows/total_by_age.clients_of_this_age) as avg, total_by_age.age FROM borrows_by_age
 JOIN total_by_age
     ON total_by_age.age = borrows_by_age.age

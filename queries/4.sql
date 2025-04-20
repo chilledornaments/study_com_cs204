@@ -27,10 +27,10 @@ LIMIT 5
 -- Sanity Check: Author 20, Helena Adams (Canada)
 -- 3 Books (23, 26, 28)
 -- 17 borrows
-select COUNT(*) from Borrower WHERE BookID IN (23, 26, 28) AND Borrower.BorrowDate >= '2015-01-01' AND Borrower.BorrowDate < '2018-01-01';
+-- select COUNT(*) from Borrower WHERE BookID IN (23, 26, 28) AND Borrower.BorrowDate >= '2015-01-01' AND Borrower.BorrowDate < '2018-01-01';
 
 -- Author 6, Dylan Garcia (Spain)
 -- 1 book (6)
 -- 3 borrows
-select COUNT(*) from Borrower WHERE BookID IN (6) AND Borrower.BorrowDate >= '2015-01-01' AND Borrower.BorrowDate < '2018-01-01';
+-- select COUNT(*) from Borrower WHERE BookID IN (6) AND Borrower.BorrowDate >= '2015-01-01' AND Borrower.BorrowDate < '2018-01-01';
 
