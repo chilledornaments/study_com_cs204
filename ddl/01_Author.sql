@@ -49,3 +49,4 @@ VALUES
 ('Liam','Parker','Canada'),
             
 ('Emily','Murphy','USA')
+;

@@ -163,3 +163,4 @@ VALUES
 ('Alysha','Lambert','2007','Student'),
             
 ('Maia','Grant','1984','School Teacher')
+;

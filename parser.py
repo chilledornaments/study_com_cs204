@@ -1,15 +1,9 @@
-import csv
+"""
+This is a hacky script to take copy-pasted data from the [assignment](https://study.com/academy/lesson/database-programming-assignment-creating-manipulating-a-database.html) and generate SQL to add the data
+
+"""
+
 import glob
-import mysql.connector
-
-# cnx = mysql.connector.connect(
-#     host="127.0.0.1",
-#     port=3306,
-#     user="root",
-#     password="root",
-#     database="MyLibrary"
-# )
-
 
 files_to_process = sorted(glob.glob("./data/*.txt"))
 
@@ -46,6 +40,8 @@ VALUES
             """
 
 
-        # 14 chars to remove last comma
         with open(f"./ddl/0{idx}_{table_name}.sql", "w+") as f:
-            f.write(query[0:len(query)-14])
+            # 14 chars to remove last comma
+            query = query[0:len(query)-14]
+            query += "\n;" # add trailing ;
+            f.write(query)

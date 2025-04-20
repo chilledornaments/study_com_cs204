@@ -67,3 +67,4 @@ VALUES
 ('Participate','22','Society'),
             
 ('Positive figures','3','Fiction')
+;
