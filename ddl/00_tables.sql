@@ -42,3 +42,8 @@ CREATE TABLE Borrower (
   BorrowDate DATE
 );
 
+-- Create indexes on primary keys because we're going to end up doing a lot of JOINs on those
+CREATE INDEX client_pk ON Client (ClientID);
+CREATE INDEX book_pk ON Book (BookID);
+CREATE INDEX author_pk ON Author (AuthorID);
+CREATE INDEX borrow_pk ON Borrower (BorrowID);
