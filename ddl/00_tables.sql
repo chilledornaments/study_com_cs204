@@ -17,7 +17,7 @@ CREATE TABLE Author (
 );
 
 -- Client depends on no other tables, so create before others that depend on it
-CREATE TABLE Clients (
+CREATE TABLE Client (
     ClientID int PRIMARY KEY AUTO_INCREMENT UNIQUE,
     ClientFirstName varchar(100),
     ClientLastName varchar(100),

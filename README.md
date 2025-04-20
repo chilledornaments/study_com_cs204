@@ -23,7 +23,6 @@ C. Write the following queries to retrieve the information detailed below.
     The top month of borrows in 2017
     Average number of borrows by age
     The oldest and the youngest clients of the library
-
     First and last names of authors that wrote books in more than one genre
 
 As you work on these queries, create indexes that will increase your queries' performance.

@@ -2,4 +2,4 @@
 
 USE MyLibrary;
 
-SELECT * from Clients;
+SELECT * from Client;
