@@ -36,8 +36,9 @@ CREATE TABLE Book (
 CREATE TABLE Borrower (
   BorrowID int PRIMARY KEY AUTO_INCREMENT UNIQUE,
   ClientID int,
-  FOREIGN KEY (ClientID) REFERENCES Clients(ClientID),
+  FOREIGN KEY (ClientID) REFERENCES Client(ClientID),
   BookID int,
   FOREIGN KEY (BookID) REFERENCES Book(BookID),
   BorrowDate DATE
 );
+
